@@ -1,4 +1,4 @@
-# Well, Well, Wellness...App!
+# Well, Well, Wellness... App!
 ## by Group 7 (BSIT 2-1)
 
 Members:
